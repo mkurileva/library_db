@@ -40,7 +40,7 @@ http://localhost:8000/docs
 - **main.py** — API endpoints  
 - **models.py** — SQLModel модели  
 - **db.py** — подключение к базе данных  
-- **dump.sql** — дамп БД с тестовыми данными  
+- **library_db_dump.sql** — дамп БД с тестовыми данными  
 - **requirements.txt** — список зависимостей
 
 ## Требования
