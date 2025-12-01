@@ -30,6 +30,10 @@ DATABASE_URL = "postgresql://postgres:your_password@localhost:5432/library_db"
 ### 5. Запустить приложение
 uvicorn main:app --reload
 
+или
+
+python -m uvicorn main:app --reload
+
 Приложение будет доступно по адресу:  
 http://localhost:8000/
 
